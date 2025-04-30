@@ -5,7 +5,7 @@ import img3 from "../../../../assets/img (3).png";
 
 function AboutUs() {
   return (
-    <section className="">
+    <section className="px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-20">
       {/* about us menu */}
       <div className="w-full flex flex-col lg:flex-row justify-center lg:justify-between items-center gap-6 md:gap-8 lg:gap-12">
         <div className="w-sm">
