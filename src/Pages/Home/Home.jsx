@@ -1,6 +1,7 @@
 import AboutUs from "./Sections/AboutUs/AboutUs"
 import HeroSection from "./Sections/HeroSection/HeroSection"
 import SectionDivider from "../../Components/SectionDivider"
+import Features from "./Sections/Features/Features"
 
 function Home() {
   return (
@@ -8,12 +9,15 @@ function Home() {
         {/* banner */}
         <HeroSection />
 
-        <SectionDivider />
 
         {/* about us */}
+        <SectionDivider />
         <AboutUs />
 
+
         {/* features */}
+        <SectionDivider />
+        <Features />
 
         {/* testimonial */}
 
