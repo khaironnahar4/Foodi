@@ -10,7 +10,7 @@ function AboutUs() {
       <div className="w-full flex flex-col lg:flex-row justify-center lg:justify-between items-center gap-6 md:gap-8 lg:gap-12">
         <div className="w-sm">
           <div>
-            <p className="text-sm tracking-widest">ABOUT US</p>
+            <h2 className="text-sm tracking-widest">ABOUT US</h2>
             <div className="bg-[#d48f1e] h-0.5 w-14 mb-6"></div>
           </div>
           <h1 className="text-3xl md:text-4xl font-bold mb-6">
@@ -43,7 +43,7 @@ function AboutUs() {
         </div>
         <div className="w-sm mx-auto">
           <div>
-            <p className="text-sm tracking-widest">COFFEE MENU</p>
+            <h2 className="text-sm tracking-widest">COFFEE MENU</h2>
             <div className="bg-[#d48f1e] h-0.5 w-14 mb-6"></div>
           </div>
           <h1 className="text-3xl md:text-4xl font-bold mb-6">
@@ -62,7 +62,7 @@ function AboutUs() {
       <div className="w-full flex flex-col lg:flex-row justify-center lg:justify-between items-center gap-6 md:gap-8 lg:gap-12 mt-6 md:mt-8 lg:mt-0">
         <div className="w-sm">
           <div>
-            <p className="text-sm tracking-widest">OUR TEAM</p>
+            <h2 className="text-sm tracking-widest">OUR TEAM</h2>
             <div className="bg-[#d48f1e] h-0.5 w-14 mb-6"></div>
           </div>
           <h1 className="text-3xl md:text-4xl font-bold mb-6">

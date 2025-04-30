@@ -11,6 +11,10 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+p{
+  color: #797B78;
+}
+
 .hero-bg {
   background-image: url('/src/assets/hero.png');
   background-size: cover;

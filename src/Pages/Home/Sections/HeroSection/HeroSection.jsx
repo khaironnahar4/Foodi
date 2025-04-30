@@ -8,7 +8,7 @@ function HeroSection() {
         <div className="absolute inset-0 bg-black/50"></div>
         <div className="relative z-10">
           <div className="bg-[#d48f1e] h-0.5 w-14  mx-auto mb-2"></div>
-          <p className="text-sm tracking-widest mb-2">HELLO, NEW FRIEND</p>
+          <h2 className="text-sm tracking-widest mb-2">HELLO, NEW FRIEND</h2>
           <h1 className="text-4xl md:text-5xl font-bold mb-6">RESERVE YOUR TABLE</h1>
           <div className="flex justify-center gap-4">
            <MainButton text="BOOK A TABLE" />
