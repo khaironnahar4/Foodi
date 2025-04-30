@@ -14,7 +14,7 @@ function Reservation() {
           </h1>
           <div className="flex flex-col md:flex-row justify-center md:justify-start gap-4">
             <MainButton text="BOOK A TABLE" />
-            <SecondaryButton text="VIEW MENU" />
+            <SecondaryButton text="CONTACT US" />
           </div>
         </div>
         <div className="bg-base-200 p-12 md:p-14 lg:p-16 rounded-xs">

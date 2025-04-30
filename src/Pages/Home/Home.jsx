@@ -3,6 +3,7 @@ import HeroSection from "./Sections/HeroSection/HeroSection"
 import SectionDivider from "../../Components/SectionDivider"
 import Features from "./Sections/Features/Features"
 import Reservation from "./Sections/Reservation/Reservation"
+import Testimonial from "./Testimonial/Testimonial"
 
 function Home() {
   return (
@@ -25,6 +26,8 @@ function Home() {
         <Reservation />
 
         {/* testimonial */}
+        <SectionDivider />
+        <Testimonial />
 
         {/* simple way to order your food */}
 
