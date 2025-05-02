@@ -9,6 +9,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: black;
 }
 
 p{
@@ -31,6 +32,13 @@ p{
 
 .easy-order-bg {
   background-image: url('/src/assets/easy-order.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.news-letter-bg {
+  background-image: url('/src/assets/newsletter.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
