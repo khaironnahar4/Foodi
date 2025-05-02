@@ -4,6 +4,8 @@ import SectionDivider from "../../Components/SectionDivider"
 import Features from "./Sections/Features/Features"
 import Reservation from "./Sections/Reservation/Reservation"
 import Testimonial from "./Testimonial/Testimonial"
+import Overview from "./Sections/Overview/Overview"
+import OrderWay from "./Sections/OrderWay/OrderWay"
 
 function Home() {
   return (
@@ -29,7 +31,13 @@ function Home() {
         <SectionDivider />
         <Testimonial />
 
+        {/* overview */}
+        <SectionDivider />
+        <Overview />
+
         {/* simple way to order your food */}
+        <SectionDivider />
+        <OrderWay />
 
         {/* explore our foods */}
 

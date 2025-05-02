@@ -21,3 +21,17 @@ p{
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.working-hour-bg {
+  background-image: url('/src/assets/reservation.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.easy-order-bg {
+  background-image: url('/src/assets/easy-order.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

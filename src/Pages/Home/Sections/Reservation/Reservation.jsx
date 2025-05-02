@@ -3,7 +3,7 @@ import SecondaryButton from "../../../../Components/SecondaryButton";
 
 function Reservation() {
   return (
-    <section className="hero-bg h-[600px] flex items-center text-white relative px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-20">
+    <section className="working-hour-bg h-[600px] flex items-center text-white relative px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-20">
       <div className="absolute inset-0 bg-black/50"></div>
       <div className="w-full relative z-10 flex flex-col md:flex-row items-center gap-6 justify-between">
         <div>
