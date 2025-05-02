@@ -1,12 +1,18 @@
-# React + Vite
+This is a restaurant website. This website is seamlessly usefull for representing a restaurant. User can know about a restaurant and about the food that the restaurant serve using this website. This website is usefull for a restaurant to show thier services and connect to the customer.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live site: https://foodi-indol.vercel.app/
 
-Currently, two official plugins are available:
+### Technologies used: 
+- HTML
+- CSS
+- Tailwind CSS
+- Daisy UI
+- React-slider
+- React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Font
+- poppins
 
-## Expanding the ESLint configuration
+## Full Website Design
+<img src="/src/assets/full-website.png" alt="full website" width="100%">
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
